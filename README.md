@@ -1,5 +1,5 @@
 ## Aplikacja udostpnia informacjie o
-* temperaturaturze
+* temperaturze
 * siłe wiatru
 * rodzaju pogody: słonecznie/opad deszczu, śniegu/pochmurno/
 ...
