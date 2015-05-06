@@ -1,4 +1,7 @@
-## Aplikacja udostpnia informacjie o
+## Pogodoview co to takiego?
+casvsdvsd
+
+## Aplikacja udostepnia informacje o
 * temperaturze
 * siłe wiatru
 * rodzaju pogody: słonecznie/opad deszczu, śniegu/pochmurno/
