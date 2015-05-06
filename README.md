@@ -1,5 +1,9 @@
-## Pogodoview co to takiego?
-casvsdvsd
+## Pogodoview, co to takiego?
+Wlasnie sie obudziles i chcesz zaplanowac swoj dzien? 
+Oczywiscie zdajesz sobie sprawe z tego jak wiele zalezy od pogody. 
+Ale co jest? O nie, okno jest tak daleko...
+Na szczescie jest aplikacja Pogodoview, ktora dostarczy Ci wszystkich niezbednych informacji.
+
 
 ## Aplikacja udostepnia informacje o
 * temperaturze
