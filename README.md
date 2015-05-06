@@ -2,6 +2,7 @@
 Wlasnie sie obudziles i chcesz zaplanowac swoj dzien?
 Oczywiscie zdajesz sobie sprawe z tego jak wiele zalezy od pogody. 
 Ale co jest? O nie, okno jest tak daleko...
+![schemat](http://imageshack.com/a/img673/5088/gURTjG.jpg)
 Na szczescie jest aplikacja Pogodoview, ktora dostarczy Ci wszystkich niezbednych informacji.
 
 
